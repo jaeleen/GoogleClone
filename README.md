@@ -1,4 +1,4 @@
 # GoogleClone
-Google UI Clone
+Google User Interface Clone
 
 Best viewed in Desktop
